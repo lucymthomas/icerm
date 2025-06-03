@@ -15,7 +15,7 @@ Once you have `conda` installed, you can set up the environment for this tutoria
 First, clone this repository to your local machine:
 
 ```
-$ git clone git@github.com:lucymthomas/ICERM.git
+$ git clone git@github.com:lucymthomas/icerm.git
 ```
 
 Then, run the following commands to set up the environment (`gwsurrogate` requires Python<3.12, and numpy<2.0):
